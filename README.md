@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kachi-cmd
-- 👀 I’m interested in Frontend with React.js, Cloud with Azure, Agile Project management and Scrm
-- 🌱 I’m currently learning Google | Coursera Agile Project Management
-- 💞️ I’m looking to collaborate on Front-end projects 
+- 👀 I’m interested in Frontend with React.js, Cloud with Azure, Agile Project management and Scrum.
+- 🌱 I’m currently learning Google | Coursera Agile Project Management, , Epic React by Kent C.
+- 💞️ I’m looking to collaborate on Projects that require Agile skills or Software developer skills.
 - 📫 How to reach me: https://www.linkedin.com/in/onyedikachi-ezema-87b43b1b7/ 
 
 <!---
