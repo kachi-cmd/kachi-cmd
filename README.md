@@ -1,6 +1,6 @@
 
-# 👋 Hi, I’m Onyedikachi Ezema -- @kachi-cmd 
-## I am an Agile Product Manager | Product Designer | Azure Cloud Administrator  
+## 👋 Hi, I’m Onyedikachi Ezema -- @kachi-cmd 
+### I am an Agile Product Manager | Product Designer | Azure Cloud Administrator  
 
 I am a junior Product Manager, Product Designer, and a certified Agile practitioner with extensive experience in diverse project management methodologies, including Scrum, Kanban, waterfall, and Agile. My skill set covers stakeholder communication, risk management, project scheduling, budgeting, market and competition research, user surveys, feasibility and viability analysis, prototyping, and milestone management.
 
