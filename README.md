@@ -17,9 +17,9 @@ My proficiency extends to various cloud technologies, including Azure Identity a
 Agile Tools: Jira & Confluence, Azure DevOps board, Trello, Asana, Microsoft Planner, Microsoft Projects, Excel, Google Sheets, Office 365, Google Workspace
 
 
-- 💞️ I’m looking to collaborate on Projects that require Agile Product skills, and cloud computation skills.
 - 👨‍💼 Portfolio project details here: https://github.com/kachi-cmd/Project-Management-Portfolio/blob/main/README.md
-- 📫 How to reach me: https://www.linkedin.com/in/onyedikachi-ezema-87b43b1b7/
+- 💞️ I’m looking to collaborate on Projects that require Agile Product skills, and cloud computation skills.
+- 📫 How to reach me: https://www.linkedin.com/in/onyedikachi-ezema-87b43b1b7/  || emmanuelkachi@gmail.com
 
 <!--
 - 👀 I’m interested in Frontend with React.js, Cloud with Azure, Agile Project management and Scrum.
