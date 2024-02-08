@@ -17,7 +17,7 @@ Agile Tools: Jira & Confluence, Azure DevOps board, Trello, Asana, Microsoft Pla
 
 
 - 👨‍💼 Portfolio project details here: https://github.com/kachi-cmd/Project-Management-Portfolio/blob/main/README.md
-- 💞️ I’m looking to collaborate on Projects that require Agile Product skills, and cloud computation skills.
+- 💞️ I’m looking to collaborate on Projects that require Agile Product Design skills, and cloud computation skills.
 - 📫 How to reach me: https://www.linkedin.com/in/onyedikachi-ezema-87b43b1b7/   ||  emmanuelkachi@gmail.com
 
 <!--
